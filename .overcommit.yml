@@ -19,8 +19,8 @@ PreCommit:
     enabled: true
   RailsSchemaUpToDate:
     enabled: true
-  Reek:
-    enabled: true
+#  Reek:
+#    enabled: true
   RailsBestPractices:
     enabled: true
   EsLint:
